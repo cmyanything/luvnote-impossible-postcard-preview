@@ -1,0 +1,110 @@
+{
+  "url": "https://luvnote-impossible-preview.silk-operation.workers.dev/?experiment=impossible",
+  "runs": [
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "mobile": true,
+      "slow": 1,
+      "progressMid": 0.47619047619047616,
+      "progressReverse": 0.14285714285714285,
+      "rollback": 0,
+      "messageVisible": true,
+      "escapeClosed": true,
+      "personalized": true,
+      "replays": 5,
+      "overflowX": false,
+      "overflowY": false,
+      "errors": [],
+      "axeViolations": [],
+      "frameStats": {
+        "count": 1337,
+        "p50": 16.699999999999818,
+        "p95": 16.700000000000728,
+        "over33": 1,
+        "longTasks": 0,
+        "maxLongTask": 0
+      }
+    },
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 900,
+      "mobile": false,
+      "slow": 1,
+      "progressMid": 0.47619047619047616,
+      "progressReverse": 0.14285714285714285,
+      "rollback": 0,
+      "messageVisible": true,
+      "escapeClosed": true,
+      "personalized": true,
+      "replays": 5,
+      "overflowX": false,
+      "overflowY": false,
+      "errors": [],
+      "axeViolations": [],
+      "frameStats": {
+        "count": 1219,
+        "p50": 16.699999999999818,
+        "p95": 33.30000000000291,
+        "over33": 54,
+        "longTasks": 1,
+        "maxLongTask": 58
+      }
+    },
+    {
+      "name": "mobile-cpu4",
+      "width": 390,
+      "height": 844,
+      "mobile": true,
+      "slow": 4,
+      "progressMid": 0.47619047619047616,
+      "progressReverse": 0.14285714285714285,
+      "rollback": 0,
+      "messageVisible": true,
+      "escapeClosed": true,
+      "personalized": true,
+      "replays": 5,
+      "overflowX": false,
+      "overflowY": false,
+      "errors": [],
+      "axeViolations": [],
+      "frameStats": {
+        "count": 1365,
+        "p50": 16.699999999999818,
+        "p95": 16.700000000000728,
+        "over33": 10,
+        "longTasks": 6,
+        "maxLongTask": 180
+      }
+    },
+    {
+      "name": "small-reduced",
+      "width": 320,
+      "height": 640,
+      "mobile": true,
+      "slow": 1,
+      "reduced": true,
+      "progressMid": 0.47619047619047616,
+      "progressReverse": 0.14285714285714285,
+      "rollback": 0,
+      "messageVisible": true,
+      "escapeClosed": true,
+      "personalized": true,
+      "replays": 5,
+      "overflowX": false,
+      "overflowY": false,
+      "errors": [],
+      "axeViolations": [],
+      "frameStats": {
+        "count": 724,
+        "p50": 16.699999999999818,
+        "p95": 16.700000000000728,
+        "over33": 2,
+        "longTasks": 0,
+        "maxLongTask": 0
+      }
+    }
+  ]
+}

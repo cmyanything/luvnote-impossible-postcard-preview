@@ -1,0 +1,559 @@
+{
+  "date": "2026-11-02T08:03:56.396Z",
+  "sourceCommit": "54403fe401a54a21bd963e18ef3530e404495062",
+  "note": "Working tree captures; compare report for final source commit. Real rendered viewports, no generated mockups.",
+  "evidence": [
+    {
+      "template": "love-letter",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "love-letter-mobile.jpg",
+      "sha256": "c584e8a27325339e4eca12dd978e3f6c46a26c8059de5989ba1dd61d5dd104f2",
+      "errors": []
+    },
+    {
+      "template": "love-letter",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "love-letter-complete-mobile.jpg",
+      "sha256": "baeca4c7ac0d3f729a2f6bc548f127b7c542df14a4d64bcf86d7aa78fcf37737",
+      "errors": []
+    },
+    {
+      "template": "polaroid",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "polaroid-mobile.jpg",
+      "sha256": "2fd1f11fb93971b29956563b80f36471c126eb9d5a3c7bc3de09f3b1180031f4",
+      "errors": []
+    },
+    {
+      "template": "polaroid",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "polaroid-complete-mobile.jpg",
+      "sha256": "985a5ee75f1a5adf46cff03e251c9890af308c2f133537acbfe2fc9afcd7e4a1",
+      "errors": []
+    },
+    {
+      "template": "cinema",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "cinema-mobile.jpg",
+      "sha256": "e72916cd9c824e00b5ff9c692600d898eb1363d7cf63350c0dcdd0ef458c133a",
+      "errors": []
+    },
+    {
+      "template": "cinema",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "cinema-complete-mobile.jpg",
+      "sha256": "d6fa4cb6518f655345c2a5b19df1559ff455d047b929f394e8c3cc60ff9691a5",
+      "errors": []
+    },
+    {
+      "template": "stars",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "stars-mobile.jpg",
+      "sha256": "16e38e30acb3d0fdd8a74c23a238426aefbb8ed653f950c58867a3a2076f57f1",
+      "errors": []
+    },
+    {
+      "template": "stars",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "stars-complete-mobile.jpg",
+      "sha256": "b5e6bc04bc90488fba5fdd82b26654b0da266bc11133545d4533a47c71fe3ca6",
+      "errors": []
+    },
+    {
+      "template": "garden",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "garden-mobile.jpg",
+      "sha256": "2def4d2a73398dbe2362f4fa179ec24fb42e4737839338e04acd1409982fb02d",
+      "errors": []
+    },
+    {
+      "template": "garden",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "garden-complete-mobile.jpg",
+      "sha256": "bfe5828919d1ec68233f1e75ab02adaec8e2bc4fe2ecb79f5c24140d7c42b17d",
+      "errors": []
+    },
+    {
+      "template": "capsule",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "capsule-mobile.jpg",
+      "sha256": "604cce88135b150b4d519a90fec7cc3600596f27af98529541a43cd44b881a6d",
+      "errors": []
+    },
+    {
+      "template": "capsule",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "capsule-complete-mobile.jpg",
+      "sha256": "f346d638a2d9c75102261f5cafc9d8013fcd55f9cfca104010195e1496ed1ca0",
+      "errors": []
+    },
+    {
+      "template": "scrapbook",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "scrapbook-mobile.jpg",
+      "sha256": "91df4809699d4c2bbfc751457b4ba592a0cf9b8bae16c6f8b58818a10a4ea83c",
+      "errors": []
+    },
+    {
+      "template": "scrapbook",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "scrapbook-complete-mobile.jpg",
+      "sha256": "3d2915711a915d1c76239acbe212e499207010257e10dda42f6f782606649141",
+      "errors": []
+    },
+    {
+      "template": "world",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "world-mobile.jpg",
+      "sha256": "c839f5445c13d2089dad5dd9b43090275de8367e449b0150ced3b494ea5a1934",
+      "errors": []
+    },
+    {
+      "template": "world",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "world-complete-mobile.jpg",
+      "sha256": "f02de3bb8c572847fb6351d1fd0fb1178dc0cda01f95a4fd69905bb48b3ad57b",
+      "errors": []
+    },
+    {
+      "template": "choose",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "choose-mobile.jpg",
+      "sha256": "9da0a36b7fb2764fe9f7160d41f25497c4bb43988aca742d49769461abb6719b",
+      "errors": []
+    },
+    {
+      "template": "choose",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "choose-complete-mobile.jpg",
+      "sha256": "53df43998c3dcf4742c7a1d09b690c7dfdd1bbfa3a51bcd8473c80832c95221b",
+      "errors": []
+    },
+    {
+      "template": "diary",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "diary-mobile.jpg",
+      "sha256": "30eb193dbb187f607ce64efde27f581894f4d3e033d593510ce15b860093976b",
+      "errors": []
+    },
+    {
+      "template": "diary",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "diary-complete-mobile.jpg",
+      "sha256": "7c67886188110b40d3474d903eb9f90ecac37c8ece007d083b3cc7e5f6bf7599",
+      "errors": []
+    },
+    {
+      "template": "constellation",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "constellation-mobile.jpg",
+      "sha256": "3ee6a050dfd4e9c05584358824915f7a18afcf1cda5178a65b6293eb303f993c",
+      "errors": []
+    },
+    {
+      "template": "constellation",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "constellation-complete-mobile.jpg",
+      "sha256": "fca2dc7cc01ef95becdfaa1d3b5d5ee37d8f27e5c4097c9010c54fe7a24b1a97",
+      "errors": []
+    },
+    {
+      "template": "surprise",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "surprise-mobile.jpg",
+      "sha256": "2b38b13787d104fda2204fd6234f95dada38ec9f847545c3a59459aa733ec83f",
+      "errors": []
+    },
+    {
+      "template": "surprise",
+      "state": "complete",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "surprise-complete-mobile.jpg",
+      "sha256": "f7459e7693fe753804200709bc07aaa7cab0500205ffd314dc291b2d772cddc6",
+      "errors": []
+    },
+    {
+      "template": "love-letter",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "love-letter-desktop.jpg",
+      "sha256": "30159b3d43939aa13b27c0bf6051821e8a6e4e6e9cae172942adff389246683c",
+      "errors": []
+    },
+    {
+      "template": "love-letter",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "love-letter-complete-desktop.jpg",
+      "sha256": "d0d283bb8f13f86d7cdc37b5b0164808b8b1b1f00b27af9e03ad0fcccc196742",
+      "errors": []
+    },
+    {
+      "template": "polaroid",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "polaroid-desktop.jpg",
+      "sha256": "8b941f6a7366e7570a6412634da1c7f17957a4a849bf83f9a8f1092be271c0c7",
+      "errors": []
+    },
+    {
+      "template": "polaroid",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "polaroid-complete-desktop.jpg",
+      "sha256": "828aef3ab43f69f0cb9b9a1f92634f2ecb97192db12c77581165e04ece877829",
+      "errors": []
+    },
+    {
+      "template": "cinema",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "cinema-desktop.jpg",
+      "sha256": "82c062fa17de0ffd4cca841b5a1cf30b3b212787b883488e90db91b7100a6154",
+      "errors": []
+    },
+    {
+      "template": "cinema",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "cinema-complete-desktop.jpg",
+      "sha256": "e212aba48cd846e67dbb14eabd990df0a7b480737702293bed298e259a05bdb7",
+      "errors": []
+    },
+    {
+      "template": "stars",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "stars-desktop.jpg",
+      "sha256": "a762c1c79486be1cc0100029c04d12a0bc707b1829e88f596c0ea545b05645bf",
+      "errors": []
+    },
+    {
+      "template": "stars",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "stars-complete-desktop.jpg",
+      "sha256": "b2c27b3039843e7852e5d93df8539dd26d1160241ea3f2f976f1ac21e78d4047",
+      "errors": []
+    },
+    {
+      "template": "garden",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "garden-desktop.jpg",
+      "sha256": "80b0fa30d7ab92d8bd704a7343a7f73acd025405630cf5658aab7d234dc8919d",
+      "errors": []
+    },
+    {
+      "template": "garden",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "garden-complete-desktop.jpg",
+      "sha256": "9319abb957540e0c20ec26045eb6999495d8543f27aad59ed92e0b6f4c31bb7a",
+      "errors": []
+    },
+    {
+      "template": "capsule",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "capsule-desktop.jpg",
+      "sha256": "372667a68f5198f3f8947d12dbad1cc4b588c5d21db7e0ae3473573c70dc3a4e",
+      "errors": []
+    },
+    {
+      "template": "capsule",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "capsule-complete-desktop.jpg",
+      "sha256": "c53af92b9d6702de09291b1d8564d6d78ac7b06374aa18edde600a184cc4f76b",
+      "errors": []
+    },
+    {
+      "template": "scrapbook",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "scrapbook-desktop.jpg",
+      "sha256": "b49be55dde23ea02fec472846eed52d91cff587fac34af5dec16d7e134304af5",
+      "errors": []
+    },
+    {
+      "template": "scrapbook",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "scrapbook-complete-desktop.jpg",
+      "sha256": "dc4288ace665e342decc55a769a258338e9fbe0f6d5446fb42ac0c322eacf609",
+      "errors": []
+    },
+    {
+      "template": "world",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "world-desktop.jpg",
+      "sha256": "e873ca5c79688b6163a74908a61fa51fd933c7b4989b142c8d793f95cf7a9813",
+      "errors": []
+    },
+    {
+      "template": "world",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "world-complete-desktop.jpg",
+      "sha256": "483407195ad80e30610b146c5ecf0085c710037eec9c4f1b505a5f2b541e0fcc",
+      "errors": []
+    },
+    {
+      "template": "choose",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "choose-desktop.jpg",
+      "sha256": "b4b2927b8cf69c3a923bf1519b0a792f8f28e5ab91cef22045b2c1c7372c3956",
+      "errors": []
+    },
+    {
+      "template": "choose",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "choose-complete-desktop.jpg",
+      "sha256": "7e1b5497b0525acac587078d124ca9b3be813970eda98a353702964191004758",
+      "errors": []
+    },
+    {
+      "template": "diary",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "diary-desktop.jpg",
+      "sha256": "72e8346fa6ebe50771856c3e87e86b0569926f12d3b0a428b7f4aebb41691aa6",
+      "errors": []
+    },
+    {
+      "template": "diary",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "diary-complete-desktop.jpg",
+      "sha256": "599921ec30465e1713e382526489878368f79d9218bce5eb9afa509b423a884e",
+      "errors": []
+    },
+    {
+      "template": "constellation",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "constellation-desktop.jpg",
+      "sha256": "cea2d2adeff8c034bc871d5ea347f95de0408d9d6b3b0f8cdd6a9425816cfb32",
+      "errors": []
+    },
+    {
+      "template": "constellation",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "constellation-complete-desktop.jpg",
+      "sha256": "d8141b8d53d5b94895fd28658f41eb809b389895f250e2145636bbde21b4c7de",
+      "errors": []
+    },
+    {
+      "template": "surprise",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "surprise-desktop.jpg",
+      "sha256": "294997f4e390b44bb17240cd5d956bf25e6dff5d6ad5479c565c298e826d1d54",
+      "errors": []
+    },
+    {
+      "template": "surprise",
+      "state": "complete",
+      "device": "desktop",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "file": "surprise-complete-desktop.jpg",
+      "sha256": "a15984f99ef339dfe76ecd52951355a7abc904ee9c7bc7625032ddb95941fda0",
+      "errors": []
+    }
+  ]
+}
