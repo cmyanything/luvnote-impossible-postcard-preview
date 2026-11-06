@@ -1,0 +1,81 @@
+{
+  "url": "http://127.0.0.1:4326/template-lab/?experiment=beyond",
+  "report": [
+    {
+      "name": "mobile",
+      "mid": 0.425,
+      "reverse": 0.075,
+      "rollback": 0,
+      "personalized": true,
+      "replays": 3,
+      "errors": [],
+      "axe": [],
+      "overflow": false,
+      "stats": {
+        "count": 852,
+        "p50": 16.699999999999818,
+        "p95": 16.799999999999272,
+        "over33": 6,
+        "longTasks": 1,
+        "maxLong": 120
+      }
+    },
+    {
+      "name": "desktop",
+      "mid": 0.425,
+      "reverse": 0.075,
+      "rollback": 0,
+      "personalized": true,
+      "replays": 3,
+      "errors": [],
+      "axe": [],
+      "overflow": false,
+      "stats": {
+        "count": 1056,
+        "p50": 16.699999999999818,
+        "p95": 16.80000000000109,
+        "over33": 41,
+        "longTasks": 3,
+        "maxLong": 131
+      }
+    },
+    {
+      "name": "slow",
+      "mid": 0.425,
+      "reverse": 0.075,
+      "rollback": 0,
+      "personalized": true,
+      "replays": 3,
+      "errors": [],
+      "axe": [],
+      "overflow": false,
+      "stats": {
+        "count": 873,
+        "p50": 16.69999999999891,
+        "p95": 16.799999999999272,
+        "over33": 7,
+        "longTasks": 7,
+        "maxLong": 345
+      }
+    },
+    {
+      "name": "reduced",
+      "mid": 0.425,
+      "reverse": 0.075,
+      "rollback": 0,
+      "personalized": true,
+      "replays": 3,
+      "errors": [],
+      "axe": [],
+      "overflow": false,
+      "stats": {
+        "count": 523,
+        "p50": 16.699999999999818,
+        "p95": 16.700000000000728,
+        "over33": 3,
+        "longTasks": 1,
+        "maxLong": 133
+      }
+    }
+  ]
+}
