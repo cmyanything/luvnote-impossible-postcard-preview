@@ -1,5 +1,5 @@
 {
-  "base": "http://127.0.0.1:4326/template-lab/?experiment=signature",
+  "base": "https://luvnote-signature-effects-preview.absorbed-lunge-8c0.workers.dev/template-lab/?experiment=signature",
   "results": [
     {
       "mode": "type",
