@@ -1,0 +1,33 @@
+{
+  "viewport": "390x844, DPR 1, headless Chromium, one worker",
+  "note": "rAF callbacks only; not presentation FPS or real-device result",
+  "report": [
+    {
+      "mode": "type",
+      "count": 192,
+      "p50": 16.699999999999818,
+      "p95": 16.700000000000273,
+      "over33": 0,
+      "longTasks": 0,
+      "maxLong": 0
+    },
+    {
+      "mode": "physics",
+      "count": 180,
+      "p50": 16.699999999999818,
+      "p95": 16.800000000000182,
+      "over33": 0,
+      "longTasks": 0,
+      "maxLong": 0
+    },
+    {
+      "mode": "echo",
+      "count": 251,
+      "p50": 16.699999999999818,
+      "p95": 16.700000000000728,
+      "over33": 0,
+      "longTasks": 0,
+      "maxLong": 0
+    }
+  ]
+}

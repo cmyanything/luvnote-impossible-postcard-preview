@@ -1,0 +1,38 @@
+{
+  "base": "http://127.0.0.1:4326/template-lab/?experiment=signature",
+  "results": [
+    {
+      "mode": "type",
+      "thaiAndEmoji": true,
+      "gestureControlChangedPixels": true,
+      "fullMessage": true,
+      "reset": true,
+      "axe": []
+    },
+    {
+      "mode": "physics",
+      "localPhotoAccepted": true,
+      "dragChangedPixels": true,
+      "reset": true,
+      "axe": []
+    },
+    {
+      "mode": "echo",
+      "actualPathsDiffer": true,
+      "personalizedReveal": true,
+      "resetRestoresStage": true,
+      "keyboardAlternative": true,
+      "axe": []
+    },
+    {
+      "mode": "reduced-motion",
+      "resultAvailable": true
+    },
+    {
+      "mode": "small-screen",
+      "horizontalOverflow": false
+    }
+  ],
+  "errors": [],
+  "bad": []
+}
